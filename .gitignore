@@ -144,4 +144,4 @@ local.properties
 .recommenders/
 
 # SqlLite 3
-*.sqlite3/
+*.sqlite3
