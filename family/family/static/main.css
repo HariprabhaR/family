@@ -1,0 +1,65 @@
+h2{
+   position: absolute;
+   top: 170px;
+   left: 440px;
+   width: 100%;
+   margin: 0 auto;
+   width: 1000px;
+   height: 50px;
+}
+h3{
+	position: absolute;
+   top: 230px;
+   left: 530px;
+   width: 100%;
+   margin: 0 auto;
+   width: 1000px;
+   height: 10px;
+}
+
+#b1{
+	position: absolute;
+   top: 280px;
+   left: 600px;
+   width: 50%;
+   margin: 0 auto;
+   width: 75px;
+   height: 40px;
+}
+#t1{
+	position: absolute;
+   top: 285px;
+   left: 700px;
+   width: 50%;
+   margin: 0 auto;
+   width: 75px;
+   height: 40px;
+}
+#b2{
+	position: absolute;
+   top: 280px;
+   left: 740px;
+   width: 60%;
+   margin: 0 auto;
+   width: 75px;
+   height: 40px;
+}
+
+#t2{
+	position: absolute;
+   top: 288px;
+   left: 830px;
+   width: 50%;
+   margin: 0 auto;
+   width: 75px;
+   height: 40px;
+}
+#t3{
+	position: absolute;
+   top: 288px;
+   left: 903px;
+   width: 50%;
+   margin: 0 auto;
+   width: 75px;
+   height: 40px;
+}
